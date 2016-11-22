@@ -1,5 +1,7 @@
 # Configure EPEL (Extra Repository for Enterprise Linux)
 
+This file has been changed 
+
 # About
 This module basically just mimics the epel-release rpm. The same repos are
 enabled/disabled and the GPG key is imported.  In the end you will end up with
